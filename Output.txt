@@ -1,0 +1,114 @@
+
+
+
+Output option 1 (Get median measurements for all values of N):
+
+
+**** MEDIAN MEASUREMENTS ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+N = 100 | Runs = 9 | Threads = 8
+
+Merge Sort
+• Sequential median: 0.014983 ms
+• Parallel median: 1.074252 ms
+• Speedup: 0.013947379199666373
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+    **** MEDIAN MEASUREMENTS ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+N = 1000 | Runs = 9 | Threads = 8
+
+Merge Sort
+• Sequential median: 0.147352 ms
+• Parallel median: 1.340721 ms
+• Speedup: 0.1099050436295098
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+    **** MEDIAN MEASUREMENTS ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+N = 10000 | Runs = 9 | Threads = 8
+
+Merge Sort
+• Sequential median: 5.186716 ms
+• Parallel median: 4.878432 ms
+• Speedup: 1.063193255537845
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+    **** MEDIAN MEASUREMENTS ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+N = 100000 | Runs = 9 | Threads = 8
+
+Merge Sort
+• Sequential median: 15.901456 ms
+• Parallel median: 7.703059 ms
+• Speedup: 2.064304064138675
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+    **** MEDIAN MEASUREMENTS ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+N = 1000000 | Runs = 9 | Threads = 8
+
+Merge Sort
+• Sequential median: 192.728404 ms
+• Parallel median: 62.533209 ms
+• Speedup: 3.0820168528373464
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+    **** MEDIAN MEASUREMENTS ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+N = 10000000 | Runs = 9 | Threads = 8
+
+Merge Sort
+• Sequential median: 2037.901701 ms
+• Parallel median: 568.098853 ms
+• Speedup: 3.5872307966092656
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+
+
+
+
+
+
+
+
+
+Output option 2 (Test Program):
+
+
+**** TEST PROGRAM ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Compare test passed
+Sorting test passed
+
+All program tests passed!
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+
+
+
+
+
+Output option 3 (Print parallel sorted array for 10 number):
+
+
+**** PRINT SORTED ARRAY ****
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+0
+0
+1
+3
+3
+4
+6
+6
+7
+8
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
